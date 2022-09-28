@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shubham/Mlflow_Simple_ML_Project/Mlflow_Project_Package/Mlflow_Project_Package/mlruns/0/fcd2e691a4f845b387b635dcd5b9a626/artifacts
+end_time: 1664353042041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fcd2e691a4f845b387b635dcd5b9a626
+run_uuid: fcd2e691a4f845b387b635dcd5b9a626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664353027780
+status: 3
+tags: []
+user_id: shubham
