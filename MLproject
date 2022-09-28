@@ -1,0 +1,10 @@
+name: mlflow_tutorial
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      intercept: {type: bool, default: False}
+    command: "python train.py -Intercept {intercept}"
+
